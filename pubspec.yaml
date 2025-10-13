@@ -1,0 +1,15 @@
+name: otto_crypt
+description: OTTO Crypt (AES-256-GCM + HKDF + Argon2id + X25519) — interoperable with PHP Laravel, Node, Python, .NET, Java/Android, Swift, C++.
+version: 0.1.0
+homepage: https://github.com/ivansostarko/otto-crypt-dart
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  cryptography: ^2.5.0
+  sodium: ^2.0.0
+  sodium_libs: ^2.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
