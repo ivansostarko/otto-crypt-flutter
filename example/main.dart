@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:typed_data';
-import 'package:otto_crypt/otto_crypt.dart';
+import 'package:otto_crypt_flutter/otto_crypt.dart';
 
 Future<void> main() async {
   final otto = await OttoCrypt.create(withSodium: true);

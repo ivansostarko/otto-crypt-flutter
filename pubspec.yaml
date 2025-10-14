@@ -1,4 +1,4 @@
-name: otto_crypt
+name: otto_crypt_flutter
 description: OTTO Crypt (AES-256-GCM + HKDF + Argon2id + X25519) — interoperable with PHP Laravel, Node, Python, .NET, Java/Android, Swift, C++.
 version: 0.1.0
 homepage: https://github.com/ivansostarko/otto-crypt-dart

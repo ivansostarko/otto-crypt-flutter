@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:typed_data';
 import 'package:test/test.dart';
-import 'package:otto_crypt/otto_crypt.dart';
+import 'package:otto_crypt_flutter/otto_crypt.dart';
 
 void main() {
   test('password roundtrip', () async {

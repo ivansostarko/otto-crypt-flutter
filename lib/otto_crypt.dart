@@ -1,4 +1,4 @@
-library otto_crypt;
+library otto_crypt_flutter;
 
 import 'dart:async';
 import 'dart:convert';
